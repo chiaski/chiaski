@@ -8,4 +8,4 @@ building little worlds below
 
 
 If you're a student in the Philippines interested in exploring the tech ecosystem, check out this guide I compiled with Developh:
-[https://www.notion.so/developh/A-Student-s-Guide-to-Philippine-Tech-cce85b3acb19499caa3637a86a64d8da](A Student's Guide to Philippine Tech)
+(https://www.notion.so/developh/A-Student-s-Guide-to-Philippine-Tech-cce85b3acb19499caa3637a86a64d8da)[A Student's Guide to Philippine Tech]
